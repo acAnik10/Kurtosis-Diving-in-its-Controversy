@@ -3,4 +3,4 @@ Short Discussion on Kurtosis: Article for Departmental Magazine, Department of S
 
 What is Kurtosis?
 What is actually meant by the term 'Kurtosis'?
-A short discussion on the notion of Kurtosis and Peakedness
+A short discussion on the notion of Kurtosis and Peakedness.
