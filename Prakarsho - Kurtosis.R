@@ -12,8 +12,8 @@ rm(list = ls())
 theme_set(theme_light())
 
 theme_new = theme(plot.title = element_text(size = 22, 
-                                       face = "bold", 
-                                       hjust = 0.5), 
+                                            face = "bold", 
+                                            hjust = 0.5), 
                   plot.subtitle = element_text(size = 20, 
                                                hjust = 0.5), 
                   plot.caption = element_text(size = 14, 
